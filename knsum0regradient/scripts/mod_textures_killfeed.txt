@@ -1,0 +1,1364 @@
+"sprites/640_hud"
+{	
+	TextureData
+	{
+		"skull_tf"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"obj_sentrygun"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"obj_sentrygun2"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"obj_sentrygun3"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"bat"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"pistol"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"pistol_scout"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"nailgun"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"sniperrifle"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"smg"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"club"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"shovel"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"tf_projectile_rocket"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"shotgun_primary"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"shotgun_soldier"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"shotgun_hwg"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"shotgun_pyro"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"tf_projectile_pipe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"bottle"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"syringegun_medic"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"minigun"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"pipe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}		
+		"flamethrower"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"fists"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"fireaxe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"bonesaw"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"knife"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"revolver"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"flaregun"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"wrench"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"scattergun"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}		
+		"tf_projectile_pipe_remote"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}		
+		"vehicle"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"skull"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"headshot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"backstab"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"ubersaw"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"axtinguisher"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_pyro"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"bluedefend"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"bluecapture"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"reddefend"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"redcapture"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"obj_attachment_sapper"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_promode"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_sticky"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_rocket"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_flare"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"bat_wood"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"ball"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_heavy"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_scout"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"gloves"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"crit"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"ambassador"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"huntsman"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"huntsman_burning"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"huntsman_flyingburn"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_spy"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"huntsman_headshot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"ambassador_headshot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_sniper"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"saw_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_arrow"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"firedeath"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"pumpkindeath"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_soldier"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_demoman"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"sword"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"demoshield"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"pickaxe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"rocketlauncher_directhit"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"sticky_resistance"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"player_sentry"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"battleaxe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"tribalkukri"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"sledgehammer"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"paintrain"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_huntsman_headshot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"huntsman_flyingburn_headshot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"taunt_medic"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"samrevolver"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"natascha"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"maxgun"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"force_a_nature"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_huntsman_flyingburn_headshot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_huntsman_flyingburn"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"deflect_ball"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images"
+		}
+		"building_carried_destroyed"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"taunt_guitar_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"frontier_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"wrench_golden"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"southern_comfort_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"bleed_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"wrangler_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"robot_arm_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"robot_arm_combo_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"robot_arm_blender_kill"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"degreaser"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"powerjack"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"eternal_reward"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"letranger"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"shortstop"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"holymackerel"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"headtaker"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"fryingpan"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"back_scratcher"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"boston_basher"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"claidheamohmor"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"steel_fists"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}			
+		"ullapool_caber_explosion"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"ullapool_caber"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"candy_cane"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"amputator"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"blackbox"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"wrench_jag"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"warrior_spirit"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"loch_n_load"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"iron_curtain"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"crusaders_crossbow"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"battleneedle"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"sydney_sleeper"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"cow_mangler"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"righteous_bison"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"bushwacka"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"taunt_soldier_lumbricus"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}			
+		"brass_beast"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}			
+		"gloves_running_urgently"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}			
+		"blutsauger"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}			
+		"sandman"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"backburner"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"lava_bat"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}	
+		"lava_axe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}		
+		"obj_minisentry"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"kunai"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"warfan"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"demokatana"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"scout_sword"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"the_maul"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"saxxy"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"market_gardener"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"the_winger"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"tomislav"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"soda_popper"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"atomizer"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"bazaar_bargain"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"big_earner"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"detonator"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"eviction_notice"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"family_business"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"liberty_launcher"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"proto_syringe"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"persian_persuader"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"reserve_shooter"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"shahanshah"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"enforcer"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"disciplinary_action"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"splendid_screen"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"mantreads"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"solemn_vow"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"nessieclub"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"mailbox"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"quake_rl"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"diamondback"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"widowmaker"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		
+		"short_circuit"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"machina"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"player_penetration"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"headshot_player_penetration"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+		"nonnonviolent_protest"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"scotland_shard"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"baleful_beacon"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"unarmed_combat"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"voodoo_pin"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"eyeball_rocket"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"purgatory"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"apocofists"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"sharp_dresser"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"sharp_dresser_backstab"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}			
+		"phlogistinator"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"manmelter"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"thirddegree"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"eureka_effect"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"pomson"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"holiday_punch"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spy_cicle"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"wrap_assassin"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"black_rose"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"lollichop"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"scorch_shot"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"rainblower"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"pro_smg"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"pep_pistol"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"armageddon"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"pro_rifle"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"pep_brawlerblaster"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"dumpster_device"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"long_heatmaker"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"annihilator"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"guillotine"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"recorder"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"loose_cannon_impact"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"freedom_staff"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"merasmus_decap"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"merasmus_zap"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"merasmus_grenade"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"merasmus_player_bomb"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"loose_cannon_explosion"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}		
+		"rescue_ranger"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"memory_maker"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}		
+		"loose_cannon_reflect"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}		
+		"rescue_ranger_reflect"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"ham_shank"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"psapper"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_teleport"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_skeleton"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_mirv"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_meteor"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_lightning"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_fireball"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_boss"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_blastjump"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_bats"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"spellbook_athletic"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"golden_fryingpan"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"australium"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"the_classic"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"tide_turner"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"bread_bite"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"snack_attack"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"back_scatter"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"airstrike"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"ai_flamethrower"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"necro_smasher"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"bumper_kart"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"crossing_guard"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"iron_bomber"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"quickiebomb_launcher"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"panic_attack"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_agility"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_vamp"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_resist"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_haste"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_fist"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_reflect"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_precision"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_strength"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_regen"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_king"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_plague"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"mannpower_supernova"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"passtime_intercept"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"passtime_steal"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"passtime_pass"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"passtime_score_blue"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"passtime_score_red"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"batsaber"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"the_capper"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+ 		"shooting_star"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+ 		"giger_counter"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+ 		"prinny_machete"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"crocodile"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"dragons_fury"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"dragons_fury_bonus"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"hot_hand"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"gas_blast"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v3"
+		}
+		"rocketpack_stomp"
+		{
+			"dfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+			"dnegfile"	"vgui/replay/thumbnails/killfeed_icons/d_images_v2"
+		}
+	}
+}

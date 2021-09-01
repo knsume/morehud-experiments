@@ -1,0 +1,132 @@
+//===========================================
+//Health Bonus Pulse
+
+event hudHealthBonusPulse
+{
+  animate PlayerStatusHealthValue fGColor buff linear 0.0 0.1
+  runEvent hudHealthBonusPulseLoop 0.0
+}
+
+// call to loop HudHealthBonusPulse
+event HudHealthBonusPulseLoop
+{
+  RunEvent HudHealthBonusPulseLoopLoop 0.0
+}
+
+event HudHealthBonusPulseLoopLoop
+{
+  animate PlayerStatusHealthValue fGColor clear flicker 0.3 0.0 0.1
+  animate PlayerStatusHealthValue fGColor buff2 flicker 0.6 0.0 0.1
+  animate PlayerStatusHealthValue fGColor buff flicker 0.7 0.0 0.1
+  animate PlayerStatusHealthValueBuff fGColor buffbig flicker 0.2 0.0 0.1
+  animate PlayerStatusHealthValueBuff fGColor clear flicker 0.8 0.0 0.1
+
+  RunEvent HudHealthBonusPulseLoop 0.2
+}
+
+event hudHealthBonusPulseStop
+{
+  stopEvent HudHealthBonusPulse 0.0
+  stopEvent HudHealthBonusPulseLoop 0.0
+  stopEvent HudHealthBonusPulseLoopLoop 0.0
+  animate PlayerStatusHealthValue fGColor White linear 0.0 0.0
+  animate PlayerStatusHealthValueBuff fGColor clear linear 0.0 0.0
+}
+
+//===========================================
+
+//Health Dying Pulse
+event hudHealthDyingPulse
+{
+  animate PlayerStatusHealthValue fGColor clear linear 0.0 0.0
+  animate PlayerStatusHealthValueShadow fGColor clear linear 0.0 0.0
+  runEvent hudHealthDyingPulseLoop 0.0
+}
+
+event hudHealthDyingPulseLoop
+{
+  runEvent hudHealthDeadPulseLoop 0.0
+}
+
+event hudHealthDeadPulseLoop
+{
+  animate PlayerStatusHealthValueYellow fGColor clear flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow fGColor glitchyellow flicker 0.4 0.0 0.1
+  animate PlayerStatusHealthValueMagenta fGColor clear flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta fGColor glitchmagenta flicker 0.4 0.0 0.1
+  animate PlayerStatusHealthValueCyan fGColor clear flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan fGColor glitchcyan flicker 0.4 0.0 0.1
+
+  animate PlayerStatusHealthValueYellow Position "0 0" flicker 0.9 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "1 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "1 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "2 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "2 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "1 -1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "1 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "2 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "2 -1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueYellow Position "-1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-2 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueYellow Position "-2 -2" flicker 0.1 0.0 0.1
+
+  animate PlayerStatusHealthValueMagenta Position "0 0" flicker 0.9 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "2 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "2 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "2 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-2 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-2 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueMagenta Position "-2 -1" flicker 0.1 0.0 0.1
+
+  animate PlayerStatusHealthValueCyan Position "0 0" flicker 0.9 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "2 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "2 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "2 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusHealthValueCyan Position "-1 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-1 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-2 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-2 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-1 -1" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-1 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-2 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusHealthValueCyan Position "-2 -1" flicker 0.1 0.1 0.1
+
+  runEvent hudHealthDyingPulseLoop 0.3
+}
+
+event hudHealthDyingPulseStop
+{
+  stopEvent hudHealthDyingPulse 0.0
+  stopEvent hudHealthDyingPulseLoop 0.0
+  stopEvent hudHealthDeadPulseLoop 0.0
+  animate PlayerStatusHealthValue fGColor White linear 0.0 0.0
+  animate PlayerStatusHealthValueShadow fGColor Black linear 0.0 0.0
+  animate PlayerStatusHealthValueYellow fGColor clear linear 0.0 0.0
+  animate PlayerStatusHealthValueMagenta fGColor clear linear 0.0 0.0
+  animate PlayerStatusHealthValueCyan fGColor clear linear 0.0 0.0
+  animate PlayerStatusHealthValueYellow Position "0 0" linear 0.0 0.0
+  animate PlayerStatusHealthValueMagenta Position "0 0" linear 0.0 0.0
+  animate PlayerStatusHealthValueCyan Position "0 0" linear 0.0 0.0
+}
+
+//===========================================
