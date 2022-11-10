@@ -2,11 +2,31 @@ Scheme
 {
 	Fonts
 	{
+		"deathnotice"
+		{
+			"1"
+			{
+				"name"										"White On Black"
+				"tall"										"11"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}		
+		"DAMAGENUMBERS"
+		{
+			"1"
+			{
+				"name"										"White On Black"
+				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
 		"m0refont10"
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -16,7 +36,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -26,7 +46,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -36,7 +56,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -47,7 +67,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -57,7 +77,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -67,7 +87,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -78,7 +98,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -88,7 +108,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -99,7 +119,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -121,7 +141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -131,7 +151,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -141,7 +161,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -152,7 +172,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -163,7 +183,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Groteski"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -174,7 +194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"26"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -184,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -194,7 +214,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -205,7 +225,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"Groteski"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -216,7 +236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"32"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -226,7 +246,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"32"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -237,7 +257,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"36"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -247,7 +267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"48"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -257,24 +277,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Groteski"
 				"tall"										"72"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
-
+		
 		"m0reSymbols"
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons"
+				"name"										"m0rehud Icons V2"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
-
+		
 		"Coolvetica11"
 		{
 			"1"
@@ -305,7 +325,7 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
-
+		
 		"VerdanaMenu"										//Only Used For Create Server Button
 		{
 			"1"
@@ -316,7 +336,7 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
-
+		
 		"BlocksSharp64"
 		{
 			"1"
@@ -327,7 +347,7 @@ Scheme
 				"antialias" 								"0"
 			}
 		}
-
+		
 		"Default"
 		{
 			"1"
@@ -366,7 +386,7 @@ Scheme
 				"antialias"									"1"
 			}
 		}
-
+		
 		"CloseCaption_Normal"
 		{
 			"1"
@@ -420,37 +440,47 @@ Scheme
 			}
 		}
 	}
-
+	
 	CustomFontFiles
 	{
-		"8"
+		"8" 
 		{
 			"font" 		"resource/fonts/surface_medium.otf"
 			"name" 		"Surface-Medium"
 		}
-
-		"9"
+		
+		"9" 
 		{
 			"font" 		"resource/fonts/surface_numbers.otf"
 			"name" 		"Surface-Numbers"
 		}
-
-		"10"
+		
+		"10" 
 		{
 			"font" 		"resource/fonts/coolvetica.ttf"
 			"name" 		"Coolvetica"
 		}
-
-		"11"
+		
+		"11" 
 		{
 			"font" 		"resource/fonts/blocks.ttf"
 			"name" 		"Blocks"
 		}
-
+		
 		"12" 
 		{
 			"font" 		"resource/fonts/m0rehud icons.ttf"
-			"name" 		"m0rehud Icons"
+			"name" 		"m0rehud Icons V2"
+		}
+		"13" 
+		{
+			"font" 		"resource/fonts/GROTB__.TTF"
+			"name" 		"Groteski"
+		}		
+		"14" 
+		{
+			"font" 		"resource/fonts/WhiteOnBlack.ttf"
+			"name" 		"White On Black"
 		}
 	}
 }

@@ -1,0 +1,171 @@
+//===========================================
+
+event hudLowAmmoPulse
+{
+  animate PlayerStatusAmmoValue fGColor clear linear 0.0 0.0
+  animate PlayerStatusAmmoValueShadow fGColor clear linear 0.0 0.0
+  animate AmmoInClip fGColor clear linear 0.0 0.0
+  animate AmmoInReserveShadow fGColor clear linear 0.0 0.0
+
+   runEvent hudLowAmmoPulseLoop  0.0
+}
+
+event hudLowAmmoPulseLoop
+{
+  runEvent hudNoAmmoPulseLoop 0.0
+}
+
+event hudNoAmmoPulseLoop
+{
+  animate PlayerStatusAmmoValueYellow fGColor clear flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow fGColor glitchyellow flicker 0.4 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta fGColor clear flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta fGColor glitchmagenta flicker 0.4 0.0 0.1
+  animate PlayerStatusAmmoValueCyan fGColor clear flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan fGColor glitchcyan flicker 0.4 0.0 0.1
+
+  animate AmmoInClip fGColor glitchyellow flicker 0.9 0.0 0.0
+  animate AmmoInClipShadow fGColor glitchmagenta flicker 0.9 0.0 0.0
+  animate AmmoInReserve fGColor glitchcyan flicker 0.9 0.0 0.0
+  animate AmmoInClip fGColor clear flicker 0.1 0.0 0.4
+  animate AmmoInClipShadow fGColor clear flicker 0.1 0.0 0.4
+  animate AmmoInReserve fGColor clear flicker 0.1 0.0 0.4
+
+  animate PlayerStatusAmmoValueYellow Position "0 0" flicker 0.9 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "1 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "1 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "2 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "2 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "1 -1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "1 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "2 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "2 -1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueYellow Position "-1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-2 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueYellow Position "-2 -2" flicker 0.1 0.0 0.1
+
+  animate PlayerStatusAmmoValueMagenta Position "0 0" flicker 0.9 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "2 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "2 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "2 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-2 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-2 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueMagenta Position "-2 -1" flicker 0.1 0.0 0.1
+
+  animate PlayerStatusAmmoValueCyan Position "0 0" flicker 0.9 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "1 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "1 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "2 2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "2 1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "1 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "1 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "2 -2" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "2 -1" flicker 0.1 0.0 0.1
+  animate PlayerStatusAmmoValueCyan Position "-1 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-1 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-2 2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-2 1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-1 -1" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-1 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-2 -2" flicker 0.1 0.1 0.1
+  animate PlayerStatusAmmoValueCyan Position "-2 -1" flicker 0.1 0.1 0.1
+
+  animate AmmoInClip Position "0 -8" flicker 0.9 0.0 0.1
+  animate AmmoInClip Position "1 -7" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "1 -6" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "2 -6" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "2 -7" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "1 -9" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "1 -10" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "2 -10" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "2 -9" flicker 0.1 0.1 0.1
+  animate AmmoInClip Position "-1 -7" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-1 -6" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-2 -6" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-2 -7" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-1 -9" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-1 -10" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-2 -9" flicker 0.1 0.0 0.1
+  animate AmmoInClip Position "-2 -10" flicker 0.1 0.0 0.1
+
+  animate AmmoInClipShadow Position "0 0" flicker 0.9 0.0 0.1
+  animate AmmoInClipShadow Position "1 1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "1 2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "2 2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "2 1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "1 -1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "1 -2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "2 -2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "2 -1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-1 1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-1 2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-2 2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-2 1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-1 -1" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-1 -2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-2 -2" flicker 0.1 0.0 0.1
+  animate AmmoInClipShadow Position "-2 -1" flicker 0.1 0.0 0.1
+
+  animate AmmoInReserve Position "0 0" flicker 0.9 0.0 0.1
+  animate AmmoInReserve Position "1 1" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "1 2" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "2 2" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "2 1" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "1 -1" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "1 -2" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "2 -2" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "2 -1" flicker 0.1 0.0 0.1
+  animate AmmoInReserve Position "-1 1" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-1 2" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-2 2" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-2 1" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-1 -1" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-1 -2" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-2 -2" flicker 0.1 0.1 0.1
+  animate AmmoInReserve Position "-2 -1" flicker 0.1 0.1 0.1
+
+
+
+  runEvent hudLowAmmoPulseLoop 0.3
+}
+
+event hudLowAmmoPulseStop
+{
+  stopEvent hudLowAmmoPulse 0.0
+  stopEvent hudLowAmmoPulseLoop 0.0
+  stopEvent hudNoAmmoPulseLoop 0.0
+  animate PlayerStatusAmmoValue fGColor White linear 0.0 0.0
+  animate PlayerStatusAmmoValueShadow fGColor Black linear 0.0 0.0
+  animate PlayerStatusAmmoValueYellow fGColor clear linear 0.0 0.0
+  animate PlayerStatusAmmoValueMagenta fGColor clear linear 0.0 0.0
+  animate PlayerStatusAmmoValueCyan fGColor clear linear 0.0 0.0
+  animate PlayerStatusAmmoValueYellow Position "0 0" linear 0.0 0.0
+  animate PlayerStatusAmmoValueMagenta Position "0 0" linear 0.0 0.0
+  animate PlayerStatusAmmoValueCyan Position "0 0" linear 0.0 0.0
+
+  animate AmmoInClip fGColor White linear 0.0 0.0
+  animate AmmoInClipShadow fGColor clear linear 0.0 0.0
+  animate AmmoInReserve fGColor clear linear 0.0 0.0
+  animate AmmoInReserveShadow fGColor Black linear 0.0 0.0
+  animate AmmoInClip Position "0 -8" linear 0.0 0.0
+  animate AmmoInClipShadow Position "0 0" linear 0.0 0.0
+  animate AmmoInReserve Position "0 0" linear 0.0 0.0
+
+}
+
+//====================================
