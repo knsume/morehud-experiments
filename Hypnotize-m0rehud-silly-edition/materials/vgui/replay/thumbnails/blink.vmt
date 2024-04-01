@@ -1,0 +1,32 @@
+"UnlitGeneric"
+{
+	"$translucent"	1
+	"$basetexture" "vgui\replay\thumbnails\blink"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"$num1" "0"
+	"$num2" "0.9999"
+	"$zero" "0"
+	"$one" "1"
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" "16"
+			"sinemin" "0"
+			"sinemax" "1"
+			"timeoffset" "0"
+			"resultVar" "$num1"
+		}
+		
+		"LessOrEqual"
+		{
+			"lessEqualVar" "$zero"
+			"greaterVar" "$one"
+			"srcVar1" "$num1"
+			"srcVar2" "$num2"
+			"resultVar" "$alpha"
+		}
+}

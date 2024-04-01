@@ -2,6 +2,7 @@
 
 event HudHealthBonusPulse
 {
+
 	Animate	PlayerStatusHealthBonusImage 			Alpha		"255"								Linear 	0.0 	0.2
 	Animate	PlayerStatusHealthBonusImage 			Alpha		"0"									Linear 	0.2 	0.4
 	
@@ -14,9 +15,9 @@ event HudHealthBonusPulse
 	
 	Animate PlayerStatusHealthValueShadowKiller 	FgColor 	"Health Buff Killer" 				Accel 	0.0 	0.0
 	
-	Animate		bear							Alpha		"0"					Linear 	0.0		0.0
-	Animate		bearslow						Alpha		"0"					Linear 	0.0		0.0
-	Animate		bearfast						Alpha		"255"				Linear 	0.0		0.0
+	Animate		bear								Alpha		"0"					Linear 	0.0		0.0
+	Animate		bearslow							Alpha		"0"					Linear 	0.0		0.0
+	Animate		bearfast							Alpha		"255"				Linear 	0.0		0.0
 
 	RunEvent HudHealthBonusPulseLoop				0.4
 }
@@ -40,9 +41,11 @@ event HudHealthBonusPulseStop
 	
 	Animate PlayerStatusHealthValueShadowKiller 	FgColor 	"Black" 							Linear 	0.0 	0.0
 	
-	Animate		bear							Alpha		"255"				Linear 	0.0		0.0
-	Animate		bearslow						Alpha		"0"					Linear 	0.0		0.0
-	Animate		bearfast						Alpha		"0"					Linear 	0.0		0.0
+	Animate		bear								Alpha		"255"				Linear 	0.0		0.0
+	Animate		bearslow							Alpha		"0"					Linear 	0.0		0.0
+	Animate		bearfast							Alpha		"0"					Linear 	0.0		0.0
+	
+	RunEvent Blinque								0.0
 }
 
 //===========================================================================================================================
@@ -61,10 +64,13 @@ event HudHealthDyingPulse
 	
 	Animate PlayerStatusHealthValueShadowKiller 	FgColor 	"Health Hurt Killer" 				Accel 	0.0 	0.0
 	
-	Animate		bear							Alpha		"0"					Linear 	0.0		0.0
-	Animate		bearslow						Alpha		"255"				Linear 	0.0		0.0
-	Animate		bearfast						Alpha		"0"					Linear 	0.0		0.0
+	Animate		bear								Alpha		"0"					Linear 	0.0		0.0
+	Animate		bearslow							Alpha		"255"				Linear 	0.0		0.0
+	Animate		bearfast							Alpha		"0"					Linear 	0.0		0.0
 
+	Animate		seeingred							Alpha		"255"				Linear 	0.0		0.0
+	
+	
 	RunEvent HudHealthDyingPulseLoop				0.25
 }
 
@@ -86,6 +92,12 @@ event HudHealthDyingPulseStop
 	Animate PlayerStatusHealthValueSpecguiBG 		BgColor 	"BlackTransparent" 					Linear 	0.0 	0.0
 	
 	Animate PlayerStatusHealthValueShadowKiller 	FgColor 	"Black" 							Linear 	0.0 	0.0
+	
+	Animate		bear								Alpha		"255"				Linear 	0.0		0.0
+	Animate		bearslow							Alpha		"0"					Linear 	0.0		0.0
+	Animate		bearfast							Alpha		"0"					Linear 	0.0		0.0
+	
+	Animate		seeingred							Alpha		"0"					Linear 	0.0		0.0
 }
 
 //===========================================================================================================================

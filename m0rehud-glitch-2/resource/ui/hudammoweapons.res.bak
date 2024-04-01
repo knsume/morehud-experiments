@@ -13,7 +13,7 @@
 		"enabled"									"1"
 	}
 
-	"PlayerStatusAmmoValue"
+	"PlayerStaturAmmoValue"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayerStatusAmmoValue"

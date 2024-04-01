@@ -767,7 +767,7 @@
 		"pin_to_sibling_corner"			         	"1"
 	}
 	
-		"bear"
+	"bear"
 	{
 		"controlName" "ImagePanel"
 		"fieldName" "bear"
@@ -822,7 +822,43 @@
 		"scaleimage" "1"
 	}
 	
+	"blink"
+	{
+		"controlName" "ImagePanel"
+		"fieldName" "blink"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "cs-0.5"
+		"ypos" "cs-0.5"
+		"zpos" "10"
+		"wide" "1200"
+		"tall" "600"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/blink"
+		"scaleimage" "1"
+	}
 	
+	"seeingred"
+	{
+		"controlName" "ImagePanel"
+		"fieldName" "seeingred"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "cs-0.5"
+		"ypos" "cs-0.5"
+		"zpos" "98"
+		"wide" "1200"
+		"tall" "600"
+
+		"alpha" "0"
+		"image" "replay/thumbnails/seeingred"
+		"scaleimage" "1"
+	}
 	
 	//////////////////////////////////REMOVED STUFF//////////////////////////////////
 	
